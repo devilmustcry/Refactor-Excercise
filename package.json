@@ -1,0 +1,16 @@
+{
+  "name": "99-bottle-of-oop",
+  "version": "1.0.0",
+  "description": "99 Bottle of oop javascript edition",
+  "main": "index.js",
+  "scripts": {
+    "test:chapterOne": "mocha ./chapterOne"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  }
+}
